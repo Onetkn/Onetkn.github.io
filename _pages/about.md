@@ -78,15 +78,15 @@ In my view, while Artificial Intelligence has achieved superhuman proficiency in
 # 🎖 Honors and Awards / 荣誉奖项
 
 - **First-class Academic Scholarship**, **Merit Student**, and **Active Participant in Arts & Sports**, BUPT. [cite_start]/ 北京邮电大学校一等学业奖学金、校级三好学生、校级文体积极分子 。
-- *2025.12* **Provincial First Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Brain-controlled Unmanned Car). [cite_start]/ 全球校园人工智能算法大赛应用赛（脑控无人车）省一等奖、国家三等奖 [cite: 20]。
-- *2024.09* **Member**, National-level Innovation Training Program. [cite_start]/ 国家级大学生创新创业训练计划（大创）成员 [cite: 21]。
-- *2024.05* **Provincial Second Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Unmanned Car). [cite_start]/ 全球校园人工智能算法大赛应用赛（无人小车）省二等奖、国家三等奖 [cite: 19]。
-- *2023.12* **National Second Prize**, National English Competition for College Students. [cite_start]/ 全国大学生英语竞赛国家二等奖 [cite: 18]。
+- *2025.12* **Provincial First Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Brain-controlled Unmanned Car). [cite_start]/ 全球校园人工智能算法大赛应用赛（脑控无人车）省一等奖、国家三等奖。
+- *2024.09* **Member**, National-level Innovation Training Program. [cite_start]/ 国家级大学生创新创业训练计划（大创）成员。
+- *2024.05* **Provincial Second Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Unmanned Car). [cite_start]/ 全球校园人工智能算法大赛应用赛（无人小车）省二等奖、国家三等奖。
+- *2023.12* **National Second Prize**, National English Competition for College Students. [cite_start]/ 全国大学生英语竞赛国家二等奖 。
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations / 教育背景
 
-- **Beijing University of Posts and Telecommunications (BUPT)** | *Intelligent Medical Engineering* | [cite_start]Sep 2023 - Jun 2027 [cite: 4]
-  <br> **GPA:** 3.56 / 4.0 (86.05/100) | Comprehensive Evaluation: 1/25 (2023-2025), 2/25 (2025-2026) | [cite_start]Post-grad Recommendation Rank: 1/25 [cite: 5, 6, 7]
-  [cite_start]<br> **Awards:** First-class Academic Scholarship (BUPT), Merit Student (BUPT) [cite: 14, 15]
-  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | [cite_start]GPA 3.56/4.0, 保研均分加权排名 1/25，荣获校一等学业奖学金 </small>* [cite: 4, 5, 7, 14]
+- **Beijing University of Posts and Telecommunications (BUPT)** | *Intelligent Medical Engineering* | [cite_start]Sep 2023 - Jun 2027 
+  <br> **GPA:** 3.56 / 4.0 (86.05/100) | Comprehensive Evaluation: 1/25 (2023-2025), 2/25 (2025-2026) | [cite_start]Post-grad Recommendation Rank: 1/25 
+  [cite_start]<br> **Awards:** First-class Academic Scholarship (BUPT), Merit Student (BUPT) 
+  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | [cite_start]GPA 3.56/4.0, 保研均分加权排名 1/25，荣获校一等学业奖学金 </small>* 
