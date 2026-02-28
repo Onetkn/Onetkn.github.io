@@ -97,4 +97,4 @@ In my view, while Artificial Intelligence has achieved superhuman proficiency in
 
 - **Beijing University of Posts and Telecommunications (BUPT)** | *Intelligent Medical Engineering* | Sep 2023 - Jun 2027 
   <br> **GPA:** **3.56 / 4.0** (86.05/100) | **Comprehensive Evaluation: 1/25** (2023-2025), 2/25 (2025-2026) | **Post-grad Recommendation Rank: 1/25** <br> **Awards:** **First-class Academic Scholarship** (BUPT), **Merit Student** (BUPT) 
-  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | **GPA 3.56/4.0**, **保研均分加权排名 1/25**，多次荣获**校一等学业奖学金** 
+  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | **GPA 3.56/4.0**, **保研均分加权排名 1/25**，荣获**校一等学业奖学金** </small>*
