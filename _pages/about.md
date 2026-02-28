@@ -77,15 +77,24 @@ In my view, while Artificial Intelligence has achieved superhuman proficiency in
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards / 荣誉奖项
 
-- **First-class Academic Scholarship**, **Merit Student**, and **Active Participant in Arts & Sports**, BUPT. / 北京邮电大学**校一等学业奖学金**、**校级三好学生**、**校级文体积极分子**。
-- *2025.12* **Provincial First Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Brain-controlled Unmanned Car). / 全球校园人工智能算法大赛应用赛（脑控无人车）**省一等奖**、**国家三等奖**。
-- *2024.09* **Member**, **National-level Innovation Training Program**. / **国家级大学生创新创业训练计划（大创）**成员。
-- *2024.05* **Provincial Second Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Unmanned Car). / 全球校园人工智能算法大赛应用赛（无人小车）**省二等奖**、**国家三等奖**。
-- *2023.12* **National Second Prize**, National English Competition for College Students. / 全国大学生英语竞赛**国家二等奖**。
+**Honors / 荣誉**
+- **First-class Academic Scholarship**, **Merit Student**, and **Active Participant in Arts & Sports**, BUPT <br> *<small>北京邮电大学**校一等学业奖学金**、**校级三好学生**、**校级文体积极分子**</small>* `2023`
+
+<br>
+**Competitions / 学科竞赛**
+- **Provincial First Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Brain-controlled Unmanned Car) <br> *<small>全球校园人工智能算法大赛应用赛（脑控无人车） **省一等奖 | 国家三等奖**</small>* `2025`
+- **Provincial Second Prize & National Third Prize**, Global Campus AI Algorithm Competition (Application Track: Unmanned Car) <br> *<small>全球校园人工智能算法大赛应用赛（无人小车） **省二等奖 | 国家三等奖**</small>* `2024`
+- **National Second Prize**, National English Competition for College Students <br> *<small>全国大学生英语竞赛 **国家二等奖**</small>* `2023`
+
+<br>
+**Projects / 项目经历**
+- **Member**, National-level Innovation Training Program <br> *<small>**国家级大学生创新创业训练计划（大创）** 核心成员</small>* `2024`
+
+<br>
 
 <span class='anchor' id='-educations'></span>
 # 📖 Educations / 教育背景
 
 - **Beijing University of Posts and Telecommunications (BUPT)** | *Intelligent Medical Engineering* | Sep 2023 - Jun 2027 
   <br> **GPA:** **3.56 / 4.0** (86.05/100) | **Comprehensive Evaluation: 1/25** (2023-2025), 2/25 (2025-2026) | **Post-grad Recommendation Rank: 1/25** <br> **Awards:** **First-class Academic Scholarship** (BUPT), **Merit Student** (BUPT) 
-  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | **GPA 3.56/4.0**, **保研均分加权排名 1/25**，荣获**校一等学业奖学金** </small>* ```
+  <br> *<small>北京邮电大学 | 人工智能学院 智能医学工程专业 | **GPA 3.56/4.0**, **保研均分加权排名 1/25**，多次荣获**校一等学业奖学金** </small>*
