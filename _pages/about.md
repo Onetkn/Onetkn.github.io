@@ -65,12 +65,14 @@ In my view, while Artificial Intelligence has achieved superhuman proficiency in
 - **Tsinghua Laboratory of Brain and Intelligence (THBI, THU)**
   <br> *Research Intern | Jul 2025 - Feb 2026*
   <br> Participated in the development of the **CRCC model** for EEG-based precision psychiatry. Assisted in building a **contrastive learning and adversarial optimization framework** to mitigate cross-site and cross-subject biases. Took charge of executing core benchmark testing, conducting comprehensive comparative experiments against foundational models like **EEGPT** on large-scale multi-center MDD cohorts, and profiling **zero-shot** generalization performance.
-  <br> *<small>清华大学脑与智能实验室 (THU THBI) | 科研实习；参与用于脑电(EEG)精准精神病学诊断的 **CRCC 模型**开发，协助构建消除跨域偏差的**对比学习与对抗优化框架**。负责在多中心抑郁症(MDD)大队列上执行核心基准测试、与 **EEGPT** 等前沿模型对比实验及**零样本(zero-shot)**泛化性能剖析。</small>*
+  <br> **Outcomes:** Co-authored a manuscript currently under review for ***ICML 2026*** [[arXiv]](https://arxiv.org/abs/2602.19138).
+  <br> *<small>清华大学脑与智能实验室 (THU THBI) | 科研实习；参与用于脑电(EEG)精准精神病学诊断的 **CRCC 模型**开发，协助构建消除跨域偏差的**对比学习与对抗优化框架**。负责在多中心抑郁症(MDD)大队列上执行核心基准测试、与 **EEGPT** 等前沿模型对比实验及**零样本(zero-shot)**泛化性能剖析。<br> **科研成果：** 合作撰写论文并在投 ***ICML 2026***。</small>*
 
 - **Center for Artificial Intelligence in Medical Imaging (CAIMI, BUPT)**
   <br> *Research Intern | Sep 2024 - Aug 2025*
   <br> Co-developed the **Meltric-BolT model** integrating **deep metric learning** and **Transformer** architectures to extract individual brain functional fingerprints from longitudinal fMRI data. Handled core model training and hyperparameter optimization, and conducted comprehensive performance comparisons and benchmarking against state-of-the-art deep learning baselines utilizing large-scale developmental cohort data.
-  <br> *<small>北邮智能医学中心实验室 (CAIMI, BUPT) | 科研实习；参与开发基于**深度度量学习**与 **Transformer** 架构的大脑功能指纹提取模型 **Meltric-BolT**。负责核心模型训练与超参数优化，并在大规模发育队列数据上主导完成与现有前沿深度学习基线模型的综合性能对比与基准测试。</small>*
+  <br> **Outcomes:** Co-authored a paper published in ***Imaging Neuroscience*** (2026) [[Paper]](https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1112/134780).
+  <br> *<small>北邮智能医学中心实验室 (CAIMI, BUPT) | 科研实习；参与开发基于**深度度量学习**与 **Transformer** 架构的大脑功能指纹提取模型 **Meltric-BolT**。负责核心模型训练与超参数优化，并在大规模发育队列数据上主导完成与现有前沿深度学习基线模型的综合性能对比与基准测试。<br> **科研成果：** 合作撰写论文并发表于 ***Imaging Neuroscience***。</small>*
 
 <br>
 
